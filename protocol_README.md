@@ -112,3 +112,38 @@ After confirming successful completion, I will move the slurm log files to the l
 ```bash
 mv slurm-spades* results/spades/logs
 ```
+## Step 6: cd-hit clustering of contigs
+The `cdhit.sh` script clusters the contigs using cd-hit and takes 2 arguments - input contigs file and output dir.
+
+```bash
+sbatch scripts/cd_hit.sh results/spades/spades/contigs.fasta results/cdhit
+```
+After confirming successful completion, I will move the slurm log files to the logs directory within results
+
+```bash
+mv slurm-cd_hit* results/cdhit/logs
+```
+
+## Step 7: Create BLAST database 
+The `blast_db.sh` script creates a BLAST database from viral reference genomes.
+
+As the command did not have provisions for mentioning output directory, I have modified the script to create and move to the desired output directory before downloading the viral reference genomes.
+```bash
+sbatch scripts/blast_db.sh
+```
+```bash
+mv slurm-blast_db* results/db/viral_refseq/logs
+``` 
+
+## step 8: Run BLASTn of contigs against viral reference database
+
+# The `blastn.sh` script runs BLASTn of the clustered contigs against the viral reference database and takes 3 arguments - input contigs file, reference database, and output dir.
+
+```bash
+sbatch scripts/blast.sh results/cdhit/cdhit_output.fasta results/db/viral_refseq/viral_refseq_db results/blastn
+``` 
+After confirming successful completion, I will move the slurm log files to the logs directory within results/blastn.
+
+```bash
+mv slurm-blast* results/blastn/logs
+```
