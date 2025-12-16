@@ -2,7 +2,7 @@
 
 - Author: Kavya Sekar Susitha
 - Date: 26 November, 2025
-- GitHub repository: 
+- GitHub repository: https://github.com/kavyasekarsusitha/FP
 - This was run at the pitzer cluster of the Ohio Supercomputer Center (<www.osc.edu>)
 - OSC working dir: /fs/ess/PAS2880/users/sskavya123/FP
 
@@ -21,7 +21,7 @@
 
 ## Set up: Get the input files
 
-1. I have downloaded the tomato reference genome assembly and annotation files from NCBI and uploaded it in my directory `/fs/ess/PAS0471/kavya/GCF_036512215.1`. I will move the files to my working directory within data/ref subdirectory.
+1. I have downloaded the tomato reference genome assembly and annotation files from NCBI and uploaded it in my directory `/fs/ess/PAS0471/kavya/GCF_036512215.1`. I will move the files to my working directory within data/ref subdirectory. (I did this step manually beacuse I already had the files downloaded)
 
    ```bash
    mkdir -p data/ref
@@ -95,7 +95,7 @@ for R1 in results/trimgalore/*R1.fastq.gz; do
     sbatch scripts/star_align.sh "$R1" "$R2" results/star/index "$ref_annotation" results/star
 done
 ```
-After confirming successful completion, I will move the slurm log files to the logs directory within results/star.
+After confirming successful completion, I will move the slurm log files to the logs directory within results/star. I also moved the unmapped reads to the data/unmapped directory for ease of access and for future reference.
 
 ```bash
 mv slurm-star_align* results/star/logs
@@ -113,7 +113,7 @@ After confirming successful completion, I will move the slurm log files to the l
 mv slurm-spades* results/spades/logs
 ```
 ## Step 6: cd-hit clustering of contigs
-The `cdhit.sh` script clusters the contigs using cd-hit and takes 2 arguments - input contigs file and output dir.
+The `cd_hit.sh` script clusters the contigs using cd-hit and takes 2 arguments - input contigs file and output dir.
 
 ```bash
 sbatch scripts/cd_hit.sh results/spades/spades/contigs.fasta results/cdhit
@@ -137,7 +137,7 @@ mv slurm-blast_db* results/db/viral_refseq/logs
 
 ## step 8: Run BLASTn of contigs against viral reference database
 
-# The `blastn.sh` script runs BLASTn of the clustered contigs against the viral reference database and takes 3 arguments - input contigs file, reference database, and output dir.
+The `blast.sh` script runs BLASTn of the clustered contigs against the viral reference database and takes 3 arguments - input contigs file, reference database, and output dir.
 
 ```bash
 sbatch scripts/blast.sh results/cdhit/cdhit_output.fasta results/db/viral_refseq/viral_refseq_db results/blastn
@@ -147,3 +147,6 @@ After confirming successful completion, I will move the slurm log files to the l
 ```bash
 mv slurm-blast* results/blastn/logs
 ```
+
+### The rest of the analysis is in R
+Please run `virus_script.R` for downstream analysis and visualization of the BLAST results.
