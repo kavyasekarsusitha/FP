@@ -1,0 +1,3 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_17_length_2806_cov_39.435691","NC_004611.1",89.921,1776,0,2268,1042,2806,2441,677,2739,"NC_004611.1 Tomato leaf curl New Delhi virus DNA A, complete sequence","reverse"
+"NODE_17_length_2806_cov_39.435691","NC_004611.1",93.501,754,0,1120,1,754,753,1,2739,"NC_004611.1 Tomato leaf curl New Delhi virus DNA A, complete sequence","reverse"

@@ -1,0 +1,92 @@
+,qseqid,sseqid,pident,length,evalue,bitscore,qstart,qend,sstart,send,slen,stitle,orientation
+1,NODE_342_length_722_cov_1972.714729,NC_001440.1,91.888,715,0,998,1,715,264,977,2216,"NC_001440.1 Cucumber mosaic virus RNA 3, complete sequence",forward
+2,NODE_408_length_659_cov_7539.268041,NC_001440.1,91.768,656,0,913,4,659,926,271,2216,"NC_001440.1 Cucumber mosaic virus RNA 3, complete sequence",reverse
+3,NODE_782_length_513_cov_7.986239,NC_001440.1,90.291,515,0,671,1,513,1518,2031,2216,"NC_001440.1 Cucumber mosaic virus RNA 3, complete sequence",forward
+4,NODE_1178_length_442_cov_1.413699,NC_001785.1,90.271,442,1.08E-163,579,1,442,7550,7991,10326,"NC_001785.1 Papaya ringspot virus, complete genome",forward
+5,NODE_1703_length_384_cov_1.781759,NC_001785.1,88.802,384,5.83E-131,470,1,384,4533,4151,10326,"NC_001785.1 Papaya ringspot virus, complete genome",reverse
+6,NODE_47_length_1622_cov_1418.846602,NC_002034.1,90.129,1631,0,2111,1,1622,236,1866,3357,"NC_002034.1 Cucumber mosaic virus RNA 1, complete sequence",forward
+7,NODE_254_length_824_cov_2097.262383,NC_002034.1,89.487,818,0,1029,1,815,2541,3355,3357,"NC_002034.1 Cucumber mosaic virus RNA 1, complete sequence",forward
+8,NODE_1133_length_448_cov_5163.544474,NC_002034.1,91.011,445,3.02E-169,597,4,446,1848,1406,3357,"NC_002034.1 Cucumber mosaic virus RNA 1, complete sequence",reverse
+9,NODE_1350_length_420_cov_876.460641,NC_002034.1,87.799,418,4.93E-137,490,1,418,1755,2172,3357,"NC_002034.1 Cucumber mosaic virus RNA 1, complete sequence",forward
+10,NODE_80_length_1305_cov_1590.078176,NC_002035.1,91.476,1314,0,1797,1,1305,1326,13,3050,"NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence",reverse
+11,NODE_102_length_1182_cov_644.999095,NC_002035.1,87.559,1061,0,1208,132,1182,3033,1984,3050,"NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence",reverse
+12,NODE_161_length_954_cov_1053.161916,NC_002035.1,85.356,758,0,774,200,954,3049,2301,3050,"NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence",reverse
+13,NODE_215_length_864_cov_752.776366,NC_002035.1,90.698,860,0,1146,5,864,2056,1197,3050,"NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence",reverse
+14,NODE_280_length_785_cov_1466.470339,NC_002035.1,92.192,730,0,1024,65,785,1,730,3050,"NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence",forward
+15,NODE_591_length_569_cov_235.459350,NC_002035.1,85.312,497,8.71E-141,503,76,569,3049,2561,3050,"NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence",reverse
+16,NODE_704_length_529_cov_5817.329646,NC_002035.1,94.118,527,0,802,3,529,1618,1092,3050,"NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence",reverse
+17,NODE_850_length_500_cov_1375.156028,NC_002035.1,91.6,500,0,691,1,500,774,1273,3050,"NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence",forward
+18,NODE_1409_length_412_cov_1324.447761,NC_002035.1,91.971,411,3.60E-163,577,2,412,1938,2348,3050,"NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence",forward
+19,NODE_2845_length_315_cov_1435.361345,NC_002035.1,89.068,311,4.87E-106,387,3,313,1692,2002,3050,"NC_002035.1 Cucumber mosaic virus RNA 2, complete sequence",forward
+20,NODE_1294_length_426_cov_106.263610,NC_003398.1,75.476,420,7.35E-46,187,16,425,7807,7398,9596,"NC_003398.1 Sugarcane mosaic virus, complete genome",reverse
+21,NODE_592_length_569_cov_2.552846,NC_003414.1,94.292,438,0,671,1,438,438,1,1360,"NC_003414.1 Ageratum yellow vein Singapore alphasatellite-[Singapore;1998], complete genome",reverse
+22,NODE_1862_length_370_cov_0.952218,NC_003414.1,95.652,368,1.15E-167,592,3,370,820,453,1360,"NC_003414.1 Ageratum yellow vein Singapore alphasatellite-[Singapore;1998], complete genome",reverse
+23,NODE_22_length_2567_cov_29.415261,NC_003891.1,91.585,2448,0,3360,121,2558,8,2443,2749,"NC_003891.1 Tomato leaf curl Bangalore virus, complete genome",forward
+24,NODE_876_length_495_cov_3.078947,NC_003891.1,90.18,499,0,640,1,495,2209,1718,2749,"NC_003891.1 Tomato leaf curl Bangalore virus, complete genome",reverse
+25,NODE_2190_length_348_cov_1.616236,NC_004300.1,94.813,347,1.10E-152,542,1,347,671,1017,2757,"NC_004300.1 Croton yellow vein mosaic virus, complete genome",forward
+26,NODE_14_length_3004_cov_9.970960,NC_004366.1,78.164,1122,0,686,262,1369,3826,2722,4152,"NC_004366.1 Tobacco bushy top virus, complete genome",reverse
+27,NODE_12_length_3037_cov_21.698311,NC_004559.1,88.112,2044,0,2396,1,2028,665,2688,2688,"NC_004559.1 Tomato leaf curl Gujarat virus - [Varanasi] segment B, complete sequence",forward
+28,NODE_12_length_3037_cov_21.698311,NC_004559.1,84.828,1015,0,1007,2029,3037,1,1005,2688,"NC_004559.1 Tomato leaf curl Gujarat virus - [Varanasi] segment B, complete sequence",forward
+29,NODE_358_length_698_cov_7.173913,NC_004559.1,81.481,702,4.88E-159,564,2,698,710,18,2688,"NC_004559.1 Tomato leaf curl Gujarat virus - [Varanasi] segment B, complete sequence",reverse
+30,NODE_17_length_2806_cov_39.435691,NC_004611.1,89.921,1776,0,2268,1042,2806,2441,677,2739,"NC_004611.1 Tomato leaf curl New Delhi virus DNA A, complete sequence",reverse
+31,NODE_17_length_2806_cov_39.435691,NC_004611.1,93.501,754,0,1120,1,754,753,1,2739,"NC_004611.1 Tomato leaf curl New Delhi virus DNA A, complete sequence",reverse
+32,NODE_377_length_679_cov_3.667774,NC_004628.1,98.38,679,0,1194,1,679,803,125,2754,"NC_004628.1 Chilli leaf curl virus, complete genome",reverse
+33,NODE_24_length_2531_cov_22.517115,NC_005778.1,77.056,2554,0,1421,6,2531,2533,5,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+34,NODE_27_length_2226_cov_8.687762,NC_005778.1,83.146,2219,0,2010,1,2215,6715,4510,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+35,NODE_30_length_2057_cov_80.605556,NC_005778.1,83.58,2028,0,1886,3,2021,419,2439,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+36,NODE_40_length_1801_cov_69.482019,NC_005778.1,81.098,1804,0,1424,9,1801,629,2424,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+37,NODE_61_length_1483_cov_59.992888,NC_005778.1,86.089,1488,0,1594,1,1483,8573,7088,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+38,NODE_114_length_1124_cov_92.510984,NC_005778.1,87.844,1127,0,1317,1,1124,9039,7916,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+39,NODE_117_length_1116_cov_4.400385,NC_005778.1,84.526,1118,0,1105,1,1116,1995,3112,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+40,NODE_124_length_1081_cov_192.083665,NC_005778.1,84.9,1000,0,1011,81,1080,5597,6596,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+41,NODE_132_length_1040_cov_39.653167,NC_005778.1,80.92,1043,0,813,2,1038,3012,1976,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+42,NODE_159_length_956_cov_135.569966,NC_005778.1,89.978,898,0,1147,64,956,9710,8822,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+43,NODE_183_length_911_cov_35.887290,NC_005778.1,81.519,882,0,717,13,891,876,1,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+44,NODE_194_length_893_cov_15.366422,NC_005778.1,80.43,884,0,662,3,881,1,876,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+45,NODE_245_length_830_cov_27.474104,NC_005778.1,87.846,831,0,972,2,830,8040,8868,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+46,NODE_253_length_825_cov_51.383690,NC_005778.1,80.377,795,7.40E-168,593,34,823,789,1,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+47,NODE_352_length_710_cov_250.252765,NC_005778.1,86.197,710,0,769,1,710,7074,6365,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+48,NODE_487_length_619_cov_4.520295,NC_005778.1,85,620,1.50E-178,628,1,619,7157,7775,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+49,NODE_718_length_526_cov_30.690423,NC_005778.1,84.28,528,1.34E-143,512,1,526,8006,8531,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+50,NODE_738_length_522_cov_131.164045,NC_005778.1,88.031,518,3.53E-174,614,1,518,6578,7095,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+51,NODE_851_length_500_cov_56.108747,NC_005778.1,82.828,495,1.68E-122,442,1,494,8072,8565,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+52,NODE_944_length_483_cov_4.140394,NC_005778.1,82.328,481,3.54E-114,414,2,480,8017,8496,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+53,NODE_955_length_481_cov_232.715347,NC_005778.1,81.513,476,1.65E-107,392,6,481,3881,4356,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+54,NODE_1171_length_443_cov_13.849727,NC_005778.1,85.455,440,1.47E-127,459,4,443,7206,6767,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+55,NODE_1287_length_427_cov_13.754286,NC_005778.1,86.525,423,3.04E-129,464,6,427,2533,2112,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",reverse
+56,NODE_1589_length_392_cov_69.809524,NC_005778.1,95.116,389,2.60E-174,614,1,389,8843,9231,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+57,NODE_1715_length_383_cov_3.748366,NC_005778.1,90.339,383,5.73E-141,503,1,383,8507,8889,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+58,NODE_1968_length_362_cov_12.484211,NC_005778.1,90.859,361,2.53E-134,481,1,359,9348,9706,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+59,NODE_2295_length_341_cov_5.303030,NC_005778.1,79.71,345,1.22E-62,243,1,341,2279,2619,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+60,NODE_2518_length_329_cov_5.805556,NC_005778.1,94.529,329,1.05E-142,508,1,329,8825,9153,9711,"NC_005778.1 Chilli veinal mottle virus, complete genome",forward
+61,NODE_1421_length_410_cov_7.675676,NC_005842.1,94.479,326,2.22E-140,501,85,410,2705,2381,2763,"NC_005842.1 Tomato leaf curl Iran virus, complete genome",reverse
+62,NODE_4_length_4654_cov_3.015075,NC_007340.1,79.666,4677,0,3330,1,4654,8168,3515,8595,"NC_007340.1 Tomato chlorosis virus segment RNA 1, complete sequence",reverse
+63,NODE_19_length_2673_cov_8.291988,NC_007340.1,78.519,2700,0,1724,1,2673,2691,18,8595,"NC_007340.1 Tomato chlorosis virus segment RNA 1, complete sequence",reverse
+64,NODE_1509_length_400_cov_2.513932,NC_007340.1,83.541,401,6.36E-101,370,3,400,8179,8576,8595,"NC_007340.1 Tomato chlorosis virus segment RNA 1, complete sequence",forward
+65,NODE_2_length_5098_cov_35.401912,NC_007341.1,79.014,5070,0,3424,55,5098,3171,8219,8247,"NC_007341.1 Tomato chlorosis virus RNA 2, complete genome",forward
+66,NODE_10_length_3140_cov_25.102187,NC_007341.1,79.602,2510,0,1775,639,3134,653,3148,8247,"NC_007341.1 Tomato chlorosis virus RNA 2, complete genome",forward
+67,NODE_10_length_3140_cov_25.102187,NC_007341.1,81.455,426,3.21E-92,344,1,423,15,437,8247,"NC_007341.1 Tomato chlorosis virus RNA 2, complete genome",forward
+68,NODE_290_length_767_cov_4.949275,NC_011591.1,99.87,767,0,1411,1,767,2111,1345,3437,"NC_011591.1 Southern tomato virus, complete genome",reverse
+69,NODE_429_length_648_cov_14.082312,NC_011591.1,99.846,648,0,1192,1,648,2863,2216,3437,"NC_011591.1 Southern tomato virus, complete genome",reverse
+70,NODE_725_length_525_cov_8.651786,NC_011591.1,100,525,0,970,1,525,2883,3407,3437,"NC_011591.1 Southern tomato virus, complete genome",forward
+71,NODE_94_length_1208_cov_23.468612,NC_036803.1,94.95,1208,0,1893,1,1208,2433,3640,6125,"NC_036803.1 Pepper vein yellows virus 5 isolate Spain-Almeria 2-2013, complete genome",forward
+72,NODE_134_length_1029_cov_2.375000,NC_036803.1,91.441,958,0,1315,1,958,4961,5918,6125,"NC_036803.1 Pepper vein yellows virus 5 isolate Spain-Almeria 2-2013, complete genome",forward
+73,NODE_645_length_549_cov_0.735169,NC_036803.1,95.985,548,0,891,1,548,1758,2305,6125,"NC_036803.1 Pepper vein yellows virus 5 isolate Spain-Almeria 2-2013, complete genome",forward
+74,NODE_2536_length_328_cov_2.864542,NC_036803.1,92.683,328,3.80E-132,473,1,328,5329,5002,6125,"NC_036803.1 Pepper vein yellows virus 5 isolate Spain-Almeria 2-2013, complete genome",reverse
+75,NODE_7_length_3785_cov_39.630798,NC_038288.1,88.308,2335,0,2785,1,2322,14,2346,3401,"NC_038288.1 Watermelon bud necrosis virus strain JT segment S, complete sequence",forward
+76,NODE_7_length_3785_cov_39.630798,NC_038288.1,98.84,1465,0,2606,2324,3785,1929,3391,3401,"NC_038288.1 Watermelon bud necrosis virus strain JT segment S, complete sequence",forward
+77,NODE_41_length_1791_cov_3.473746,NC_038289.1,96.985,1791,0,3009,1,1791,2637,847,8916,"NC_038289.1 Watermelon bud necrosis virus strain JT L protein gene, complete cds",reverse
+78,NODE_55_length_1546_cov_3.399592,NC_038289.1,97.93,1546,0,2678,1,1546,4541,2996,8916,"NC_038289.1 Watermelon bud necrosis virus strain JT L protein gene, complete cds",reverse
+79,NODE_81_length_1294_cov_2.691865,NC_038289.1,97.063,1294,0,2180,1,1294,5843,4550,8916,"NC_038289.1 Watermelon bud necrosis virus strain JT L protein gene, complete cds",reverse
+80,NODE_139_length_1021_cov_1.760593,NC_038289.1,97.356,1021,0,1736,1,1021,7900,6880,8916,"NC_038289.1 Watermelon bud necrosis virus strain JT L protein gene, complete cds",reverse
+81,NODE_292_length_767_cov_3.136232,NC_038289.1,97.135,768,0,1295,1,767,8141,8908,8916,"NC_038289.1 Watermelon bud necrosis virus strain JT L protein gene, complete cds",forward
+82,NODE_672_length_538_cov_4.002169,NC_038289.1,97.393,537,0,915,1,537,6299,6835,8916,"NC_038289.1 Watermelon bud necrosis virus strain JT L protein gene, complete cds",forward
+83,NODE_753_length_519_cov_4.180995,NC_038289.1,96.124,516,0,843,4,519,348,863,8916,"NC_038289.1 Watermelon bud necrosis virus strain JT L protein gene, complete cds",forward
+84,NODE_2147_length_350_cov_3.087912,NC_038289.1,97.429,350,2.32E-169,597,1,350,2991,2642,8916,"NC_038289.1 Watermelon bud necrosis virus strain JT L protein gene, complete cds",reverse
+85,NODE_2806_length_317_cov_1.404167,NC_038289.1,97.161,317,4.60E-151,536,1,317,6298,5982,8916,"NC_038289.1 Watermelon bud necrosis virus strain JT L protein gene, complete cds",reverse
+86,NODE_3_length_4760_cov_26.258168,NC_038290.1,96.307,4766,0,7821,1,4760,16,4781,4794,"NC_038290.1 Watermelon bud necrosis virus strain JT segment M, complete sequence",forward
+87,NODE_67_length_1454_cov_4.320261,NC_038684.1,91.814,1356,0,1877,106,1454,1,1349,1377,"NC_038684.1 Tomato leaf curl Bangalore betasatellite isolate ToLCBV-AVT1, complete sequence",forward
+88,NODE_424_length_652_cov_3.914783,NC_038687.1,91.629,657,0,902,1,652,1343,690,1371,"NC_038687.1 Tomato yellow leaf curl Rajasthan betasatellite, complete sequence",reverse
+89,NODE_527_length_597_cov_3.098077,NC_038687.1,87.708,602,0,695,1,597,967,369,1371,"NC_038687.1 Tomato yellow leaf curl Rajasthan betasatellite, complete sequence",reverse
+90,NODE_2604_length_325_cov_3.431452,NC_075422.1,94.136,324,2.89E-138,494,2,325,4490,4813,6244,"NC_075422.1 Pepper vein yellows virus isolate 12KNX1, complete genome",forward
+91,NODE_45_length_1700_cov_6.593962,NC_077216.1,92.593,1701,0,2442,1,1700,1719,20,6096,"NC_077216.1 Pepper yellows virus genome assembly, complete genome: monopartite",reverse

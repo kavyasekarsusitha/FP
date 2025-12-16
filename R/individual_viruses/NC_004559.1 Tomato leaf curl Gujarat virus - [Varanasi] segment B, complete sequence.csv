@@ -1,0 +1,4 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_12_length_3037_cov_21.698311","NC_004559.1",88.112,2044,0,2396,1,2028,665,2688,2688,"NC_004559.1 Tomato leaf curl Gujarat virus - [Varanasi] segment B, complete sequence","forward"
+"NODE_12_length_3037_cov_21.698311","NC_004559.1",84.828,1015,0,1007,2029,3037,1,1005,2688,"NC_004559.1 Tomato leaf curl Gujarat virus - [Varanasi] segment B, complete sequence","forward"
+"NODE_358_length_698_cov_7.173913","NC_004559.1",81.481,702,4.88e-159,564,2,698,710,18,2688,"NC_004559.1 Tomato leaf curl Gujarat virus - [Varanasi] segment B, complete sequence","reverse"

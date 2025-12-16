@@ -1,0 +1,2 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_2190_length_348_cov_1.616236","NC_004300.1",94.813,347,1.1e-152,542,1,347,671,1017,2757,"NC_004300.1 Croton yellow vein mosaic virus, complete genome","forward"

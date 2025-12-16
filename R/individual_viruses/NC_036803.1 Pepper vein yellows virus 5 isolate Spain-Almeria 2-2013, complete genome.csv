@@ -1,0 +1,5 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_94_length_1208_cov_23.468612","NC_036803.1",94.95,1208,0,1893,1,1208,2433,3640,6125,"NC_036803.1 Pepper vein yellows virus 5 isolate Spain-Almeria 2-2013, complete genome","forward"
+"NODE_134_length_1029_cov_2.375000","NC_036803.1",91.441,958,0,1315,1,958,4961,5918,6125,"NC_036803.1 Pepper vein yellows virus 5 isolate Spain-Almeria 2-2013, complete genome","forward"
+"NODE_645_length_549_cov_0.735169","NC_036803.1",95.985,548,0,891,1,548,1758,2305,6125,"NC_036803.1 Pepper vein yellows virus 5 isolate Spain-Almeria 2-2013, complete genome","forward"
+"NODE_2536_length_328_cov_2.864542","NC_036803.1",92.683,328,3.8e-132,473,1,328,5329,5002,6125,"NC_036803.1 Pepper vein yellows virus 5 isolate Spain-Almeria 2-2013, complete genome","reverse"

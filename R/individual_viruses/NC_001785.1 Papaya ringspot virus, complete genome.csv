@@ -1,0 +1,3 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_1178_length_442_cov_1.413699","NC_001785.1",90.271,442,1.08e-163,579,1,442,7550,7991,10326,"NC_001785.1 Papaya ringspot virus, complete genome","forward"
+"NODE_1703_length_384_cov_1.781759","NC_001785.1",88.802,384,5.83e-131,470,1,384,4533,4151,10326,"NC_001785.1 Papaya ringspot virus, complete genome","reverse"

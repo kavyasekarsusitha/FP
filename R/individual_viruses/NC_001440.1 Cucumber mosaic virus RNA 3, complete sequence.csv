@@ -1,0 +1,4 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_342_length_722_cov_1972.714729","NC_001440.1",91.888,715,0,998,1,715,264,977,2216,"NC_001440.1 Cucumber mosaic virus RNA 3, complete sequence","forward"
+"NODE_408_length_659_cov_7539.268041","NC_001440.1",91.768,656,0,913,4,659,926,271,2216,"NC_001440.1 Cucumber mosaic virus RNA 3, complete sequence","reverse"
+"NODE_782_length_513_cov_7.986239","NC_001440.1",90.291,515,0,671,1,513,1518,2031,2216,"NC_001440.1 Cucumber mosaic virus RNA 3, complete sequence","forward"

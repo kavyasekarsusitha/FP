@@ -1,0 +1,4 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_2_length_5098_cov_35.401912","NC_007341.1",79.014,5070,0,3424,55,5098,3171,8219,8247,"NC_007341.1 Tomato chlorosis virus RNA 2, complete genome","forward"
+"NODE_10_length_3140_cov_25.102187","NC_007341.1",79.602,2510,0,1775,639,3134,653,3148,8247,"NC_007341.1 Tomato chlorosis virus RNA 2, complete genome","forward"
+"NODE_10_length_3140_cov_25.102187","NC_007341.1",81.455,426,3.21e-92,344,1,423,15,437,8247,"NC_007341.1 Tomato chlorosis virus RNA 2, complete genome","forward"

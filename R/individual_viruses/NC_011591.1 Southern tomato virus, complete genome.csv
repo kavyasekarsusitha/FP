@@ -1,0 +1,4 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_290_length_767_cov_4.949275","NC_011591.1",99.87,767,0,1411,1,767,2111,1345,3437,"NC_011591.1 Southern tomato virus, complete genome","reverse"
+"NODE_429_length_648_cov_14.082312","NC_011591.1",99.846,648,0,1192,1,648,2863,2216,3437,"NC_011591.1 Southern tomato virus, complete genome","reverse"
+"NODE_725_length_525_cov_8.651786","NC_011591.1",100,525,0,970,1,525,2883,3407,3437,"NC_011591.1 Southern tomato virus, complete genome","forward"

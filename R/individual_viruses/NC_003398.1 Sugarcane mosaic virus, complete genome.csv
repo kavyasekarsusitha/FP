@@ -1,0 +1,2 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_1294_length_426_cov_106.263610","NC_003398.1",75.476,420,7.35e-46,187,16,425,7807,7398,9596,"NC_003398.1 Sugarcane mosaic virus, complete genome","reverse"

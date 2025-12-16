@@ -1,0 +1,2 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_1421_length_410_cov_7.675676","NC_005842.1",94.479,326,2.22e-140,501,85,410,2705,2381,2763,"NC_005842.1 Tomato leaf curl Iran virus, complete genome","reverse"

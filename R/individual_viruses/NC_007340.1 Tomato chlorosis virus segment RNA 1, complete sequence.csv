@@ -1,0 +1,4 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_4_length_4654_cov_3.015075","NC_007340.1",79.666,4677,0,3330,1,4654,8168,3515,8595,"NC_007340.1 Tomato chlorosis virus segment RNA 1, complete sequence","reverse"
+"NODE_19_length_2673_cov_8.291988","NC_007340.1",78.519,2700,0,1724,1,2673,2691,18,8595,"NC_007340.1 Tomato chlorosis virus segment RNA 1, complete sequence","reverse"
+"NODE_1509_length_400_cov_2.513932","NC_007340.1",83.541,401,6.36e-101,370,3,400,8179,8576,8595,"NC_007340.1 Tomato chlorosis virus segment RNA 1, complete sequence","forward"

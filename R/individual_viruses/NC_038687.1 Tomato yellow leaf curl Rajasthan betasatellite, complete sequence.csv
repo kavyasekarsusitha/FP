@@ -1,0 +1,3 @@
+"qseqid","sseqid","pident","length","evalue","bitscore","qstart","qend","sstart","send","slen","stitle","orientation"
+"NODE_424_length_652_cov_3.914783","NC_038687.1",91.629,657,0,902,1,652,1343,690,1371,"NC_038687.1 Tomato yellow leaf curl Rajasthan betasatellite, complete sequence","reverse"
+"NODE_527_length_597_cov_3.098077","NC_038687.1",87.708,602,0,695,1,597,967,369,1371,"NC_038687.1 Tomato yellow leaf curl Rajasthan betasatellite, complete sequence","reverse"
